@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Feb 25 15:58:56 2025
-@author: mmchugh
+@author: mmchugh/csmall
 
 Tidal Datum Plot
 
-Author: Maya McHugh, Coastal Engineer
-Email: mmchugh@eaest.com
+Authors: Maya McHugh & Chris Small, Coastal Engineer
+Email: mmchugh@eaest.com or csmall@eaest.com
 Organization: EA Engineering
 Date Created: 02/28/2025
 
